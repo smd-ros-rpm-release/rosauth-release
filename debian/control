@@ -1,0 +1,12 @@
+Source: ros-groovy-rosauth
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-message-generation,ros-groovy-rostest,ros-groovy-catkin,ros-groovy-roscpp
+Homepage: http://ros.org/wiki/rosauth
+Standards-Version: 3.9.2
+
+Package: ros-groovy-rosauth
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-message-runtime,ros-groovy-roscpp
+Description: Server side tools for authorization and authentication of ROS clients.
