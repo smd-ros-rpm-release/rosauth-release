@@ -1,3 +1,3 @@
 [git-buildpackage]
-upstream-branch=release/rosauth/0.1.1
+upstream-branch=@(release_tag)
 upstream-tree=branch
