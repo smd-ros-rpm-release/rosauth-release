@@ -11,6 +11,7 @@ Source0:        %{name}-%{version}.tar.gz
 Requires:       ros-indigo-message-runtime
 Requires:       ros-indigo-roscpp
 BuildRequires:  ros-indigo-catkin
+BuildRequires:  openssl-devel
 BuildRequires:  ros-indigo-message-generation
 BuildRequires:  ros-indigo-roscpp
 BuildRequires:  ros-indigo-rostest
