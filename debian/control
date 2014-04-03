@@ -1,0 +1,12 @@
+Source: ros-hydro-rosauth
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-roscpp, ros-hydro-rostest
+Homepage: http://ros.org/wiki/rosauth
+Standards-Version: 3.9.2
+
+Package: ros-hydro-rosauth
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-message-runtime, ros-hydro-roscpp
+Description: Server Side tools for Authorization and Authentication of ROS Clients
