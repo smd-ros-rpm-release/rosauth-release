@@ -1,3 +1,22 @@
+## rosauth (indigo) - 0.1.4-0
+
+User `rctoris@RCT-DESKTOP` released the packages in the `rosauth` repository into the `indigo` distro by running `/usr/bin/bloom-release rosauth --track indigo --rosdistro indigo --new-track` on `Thu, 03 Apr 2014 19:08:10 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.27`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## rosauth (hydro) - 0.1.4-0
 
 User `rctoris@RCT-DESKTOP` released the packages in the `rosauth` repository into the `hydro` distro by running `/usr/bin/bloom-release rosauth --track hydro --rosdistro hydro --new-track` on `Thu, 03 Apr 2014 19:06:29 -0000`
