@@ -1,0 +1,65 @@
+ros-indigo-rosauth (0.1.5-0saucy) saucy; urgency=high
+
+  * Merge pull request #6 from forouher/develop
+    add missing catkin dependencies
+  * add missing catkin dependencies
+  * Now runs hydro and groovy
+  * fixed dox file
+  * Contributors: Dariush Forouher, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 02 Dec 2014 05:00:00 -0000
+
+ros-indigo-rosauth (0.1.4-0saucy) saucy; urgency=high
+
+  * dox file fixed
+  * authors file added
+  * travis now runs tests
+  * cleanup for indigo
+  * Merge branch 'hydro-devel' of github.com:WPI-RAIL/rosauth into develop
+  * Merge pull request #4 <https://github.com/WPI-RAIL/rosauth/issues/4> from FriedCircuits/hydro-devel
+    Add IF for rostest
+  * Add IF for rostest
+  * switched to sha512
+  * bug in rosauth fixed
+  * Contributors: Russell Toris, William
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 03 Apr 2014 04:00:00 -0000
+
+ros-indigo-rosauth (0.1.3-0saucy) saucy; urgency=high
+
+  * possible cmake fix
+  * test cmake fix
+  * test cmake fix
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Wed, 01 May 2013 04:00:00 -0000
+
+ros-indigo-rosauth (0.1.2-0saucy) saucy; urgency=high
+
+  * Merge pull request #1 <https://github.com/WPI-RAIL/rosauth/issues/1> from rctoris/groovy-devel
+    ros_hash_authentication renamed to ros_mac_authentication
+  * ros_hash_authentication renamed to ros_mac_authentication
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 12 Mar 2013 04:00:00 -0000
+
+ros-indigo-rosauth (0.1.1-0saucy) saucy; urgency=high
+
+  * version 0.1.1 of rosauth
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Mon, 28 Jan 2013 04:15:00 -0000
+
+ros-indigo-rosauth (0.1.0-0saucy) saucy; urgency=high
+
+  * dependencies fixed
+  * catkin release
+  * test cases added
+  * test cases added
+  * initial import
+  * Create README
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Sun, 27 Jan 2013 15:33:00 -0000
+
+
